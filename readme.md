@@ -1,0 +1,2 @@
+ - https://youtrack.jetbrains.com/issue/IDEA-256570 // only first of repeated @jakarta.persistence.NamedQuery annotations has navigable #name
+ - https://youtrack.jetbrains.com/issue/IDEA-327165 // standalone @org.hibernate.annotations.NamedQuery annotation(s) #name are not navigable 
